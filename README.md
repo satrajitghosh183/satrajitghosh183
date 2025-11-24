@@ -1,10 +1,4 @@
-Here’s a full GitHub profile README you can drop into `README.md` in your `satrajitghosh183/satrajitghosh183` repo. It’s set up to work nicely with **lowlighter/metrics** and follows the structure/style ideas from that Medium article.
 
-Adjust anything you don’t like, but this is a solid “professional profile resume” starting point.
-
----
-
-````md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Satrajit%20Ghosh&animation=fadeIn&type=waving&color=gradient&height=120&fontAlignY=35&desc=Graphics%20%7C%20GPU%20Scheduling%20%7C%20VR%20Systems&descAlignY=60" alt="Header" />
 </p>
