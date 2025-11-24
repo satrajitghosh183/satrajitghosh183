@@ -1,206 +1,239 @@
-
 <div align="center">
 
+```
 ████████████████████████████████████████████████████████████████
 █                                                              █
-█     ╦═╗╔═╗╔╗╔╔╦╗╔═╗╦═╗  ╔═╗╦╔═╗╔═╗╦  ╦╔╗╔╔═╗                █
-█     ╠╦╝║╣ ║║║ ║║║╣ ╠╦╝  ╠═╝║╠═╝║╣ ║  ║║║║║╣                 █
-█     ╩╚═╚═╝╝╚╝═╩╝╚═╝╩╚═  ╩  ╩╩  ╚═╝╩═╝╩╝╚╝╚═╝                █
+█                  S Y N T H W A V E   R U N N E R            █
 █                                                              █
 ████████████████████████████████████████████████████████████████
+    ___                                              ___
+   /   \          SCORE: ∞                          /   \
+  /  ●  \         HI: 999999                       /  ●  \
+ /_______\                                        /_______\
+                          __
+                         / _)     
+                  .-^^^-/ /       [PRESS SPACE]
+           __    /      /
+          /  \__/       /         
+         /              \
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+```
 
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=35&duration=2000&pause=500&color=FFFFFF&center=true&vCenter=true&width=800&height=100&lines=SATRAJIT+GHOSH;GRAPHICS+%7C+GPU+%7C+VR%2FAR;REAL-TIME+RENDERING+%E2%96%B6%EF%B8%8F;NEURAL+RENDERING+%E2%96%B6%EF%B8%8F;GAME+ENGINE+DEV+%E2%96%B6%EF%B8%8F" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&lines=Real-Time+Graphics+Engineer;GPU+Architecture+%26+Scheduling;VR+%2F+AR+Systems+Developer;Neural+Rendering+Researcher" alt="Typing SVG" />
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
 ---
 
-## `// SHADER_INPUTS`
+## 🦖 PLAYER STATS
 
-glsl
-uniform mat4 uName          = "Satrajit Ghosh";
-uniform mat4 uDegree        = "MS ECE (Machine Learning)";
-uniform vec3 uInstitution   = "Rutgers University";
-uniform float uGPA          = 4.0;
-uniform int uFocus          = REALTIME_GRAPHICS | GPU_SCHEDULING | VR_AR;
-
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║  NAME ........... Satrajit Ghosh                         ║
+║  CLASS .......... MS ECE (Machine Learning)              ║
+║  GUILD .......... Rutgers University                     ║
+║  LEVEL .......... 4.0 / 4.0 GPA                          ║
+║  SPEC ........... Graphics│GPU│VR/AR                     ║
+║  ENGINE ......... LAGEngine (C++/OpenGL/CUDA)            ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
 ---
 
-## `// VERTEX_SHADER → Skills`
+## 🎮 SKILL TREE
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎮 Graphics Programming
+```
+███ GRAPHICS PROGRAMMING ███
 
-▓▓▓▓▓▓▓▓▓▓ C++ / Modern OpenGL
-▓▓▓▓▓▓▓▓▓▓ GLSL / HLSL Shaders
-▓▓▓▓▓▓▓▓▓░ CUDA / GPU Compute
-▓▓▓▓▓▓▓▓░░ Vulkan / DirectX
-▓▓▓▓▓▓▓▓▓▓ Physics Simulation
-
+████████████ C++ / OpenGL
+████████████ GLSL / Shaders
+███████████░ CUDA Compute
+██████████░░ Vulkan / DX
+████████████ Physics Sim
+```
 
 </td>
 <td width="50%">
 
-### 🧠 ML / 3D Vision
+```
+███ ML / 3D VISION ███
 
-▓▓▓▓▓▓▓▓▓░ PyTorch / TensorFlow
-▓▓▓▓▓▓▓▓▓░ NeRF / 3DGS
-▓▓▓▓▓▓▓▓░░ Neural Rendering
-▓▓▓▓▓▓▓▓▓░ Scene Reconstruction
-▓▓▓▓▓▓▓░░░ Multimodal Perception
-
-
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**⚡ Languages**
-- C / C++20
-- Python
-- CUDA C++
-- JavaScript / TS
-- GLSL / HLSL
-
-</td>
-<td width="33%" valign="top">
-
-**🔧 Graphics APIs**
-- OpenGL 4.6
-- CUDA 12.x
-- Vulkan
-- WebGL / Three.js
-- DirectX 11/12
-
-</td>
-<td width="33%" valign="top">
-
-**🛠️ Tools**
-- CMake / Ninja
-- Git / GitHub Actions
-- RenderDoc / NSight
-- Docker
-- Linux / WSL2
+███████████░ PyTorch
+███████████░ NeRF / 3DGS
+██████████░░ Neural Render
+███████████░ Scene Recon
+█████████░░░ Multimodal
+```
 
 </td>
 </tr>
 </table>
 
----
-
-## `// FRAGMENT_SHADER → Projects`
-
-### 🎯 **LAGEngine** `[Active Development]`
-
-╔════════════════════════════════════════════════════════════╗
-║ Custom C++ Game Engine & GPU Research Testbed             ║
-╠════════════════════════════════════════════════════════════╣
-║ → DAG-based render graph (explicit pass/resource tracking)║
-║ → Multithreaded work-stealing task scheduler              ║
-║ → CUDA–OpenGL interop for direct GPU buffer writes        ║
-║ → Real-time instrumentation: frame times, queue depth,    ║
-║   sync costs, GPU utilization metrics                     ║
-╚════════════════════════════════════════════════════════════╝
-
-
-### 🥽 **VR / AR Systems Portfolio**
-
-┌─────────────────────────────────────────────────────────┐
-│ VR Fitness & Exercise Game                              │
-│ └─ 🏆 3rd Place: Google × GeeksforGeeks                 │
-│    "Solving for India" Competition                      │
-├─────────────────────────────────────────────────────────┤
-│ VR Warehouse Training System                            │
-│ └─ Interactive annotation & learning modules            │
-├─────────────────────────────────────────────────────────┤
-│ VR Architectural House Tours                            │
-│ └─ Real-time walkthroughs for architecture clients      │
-├─────────────────────────────────────────────────────────┤
-│ VR Movie Theatre Experience                             │
-│ └─ Lockdown entertainment solution                      │
-└─────────────────────────────────────────────────────────┘
-
-
-### 🧪 **Neural Rendering Research** `[Princeton Exchange]`
-
-║▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓║
-║  ◆ Neural Radiance Fields (NeRF) Implementation       ║
-║  ◆ 3D Gaussian Splatting for Real-Time Rendering      ║
-║  ◆ Neural Scene Reconstruction Pipelines              ║
-║  ◆ Animatable 3D Avatar Generation                    ║
-║▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓║
-
-
-### 🔬 **Side Experiments**
-- **McGurk Effect Studies** → Deep learning models for audiovisual speech perception
-- **Quantitative Trading Tools** → Signal processing, backtesting, workflow automation
-
----
-
-## `// RENDER_OUTPUT → Stats`
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satrajitghosh183&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satrajitghosh183&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B00&currStreakLabel=00F7F7" />
+### ⚡ EQUIPPED ITEMS
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satrajitghosh183&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8" />
-
-![GitHub Metrics](github-metrics.svg)
+`[C++20]` `[CUDA 12.x]` `[OpenGL 4.6]` `[Python]` `[JavaScript]` `[GLSL]` `[CMake]` `[Git]` `[RenderDoc]` `[NSight]` `[Docker]` `[Linux]`
 
 </div>
 
 ---
 
-## `// POST_PROCESSING → Benchmarks`
+## 🌃 ACTIVE QUESTS
+
+### 🎯 MAIN QUEST: LAGEngine
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  🦖 CUSTOM GAME ENGINE & RESEARCH TESTBED              ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃                                                         ┃
+┃  ▶ DAG-based render graph                              ┃
+┃  ▶ Multithreaded work-stealing scheduler               ┃
+┃  ▶ CUDA–OpenGL interop magic                           ┃
+┃  ▶ Real-time perf instrumentation                      ┃
+┃  ▶ Frame time / GPU utilization tracking               ┃
+┃                                                         ┃
+┃  STATUS: [████████████████░░░░] 80% COMPLETE           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
+
+### 🥽 SIDE QUEST: VR/AR Systems
+
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║  🏆 VR Fitness Game                                  ║
+║     └─ 3rd Place @ Google × GeeksforGeeks           ║
+║        "Solving for India" Competition               ║
+║                                                       ║
+║  🏭 VR Warehouse Training                            ║
+║     └─ Interactive learning modules                  ║
+║                                                       ║
+║  🏠 VR Architectural Tours                           ║
+║     └─ Real-time client walkthroughs                ║
+║                                                       ║
+║  🎬 VR Movie Theatre                                 ║
+║     └─ Lockdown entertainment solution               ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+### 🧪 SPECIAL EVENT: Neural Rendering [Princeton Exchange]
+
+```
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+  ◆ Neural Radiance Fields (NeRF)
+  ◆ 3D Gaussian Splatting  
+  ◆ Neural Scene Reconstruction
+  ◆ Animatable 3D Avatars
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+
+### 🔬 DAILY CHALLENGES
+
+- **McGurk Effect Studies** → Audiovisual perception in deep models
+- **Quant Trading Tools** → Signal processing & backtesting automation
+
+---
+
+## 📊 GAME STATS
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satrajitghosh183&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satrajitghosh183&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" />
 
-╔══════════════════════════════════════════════════════════╗
-║         🎯 RENDER STATISTICS & BENCHMARKS 🎯            ║
-╠══════════════════════════════════════════════════════════╣
-║  Frame Time ................ <16.67ms (60 FPS)          ║
-║  GPU Utilization ........... 95%+                       ║
-║  Draw Calls ................ Optimized via batching     ║
-║  Memory Bandwidth .......... Maximized via interop      ║
-║  Code Quality .............. Production-grade           ║
-╚══════════════════════════════════════════════════════════╝
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satrajitghosh183&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&langs_count=8" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=satrajitghosh183&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+![Metrics](github-metrics.svg)
 
 </div>
 
 ---
 
-## `// SWAP_BUFFERS → Connect`
+## 🎯 ACHIEVEMENTS UNLOCKED
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-sg2231%40rutgers.edu-00F7F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sg2231@rutgers.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satrajit_Ghosh-00F7F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satrajit-ghosh/)
-[![GitHub](https://img.shields.io/badge/GitHub-satrajitghosh183-00F7F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satrajitghosh183)
+```
+┏━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
+┃   🏆 4.0 GPA   ┃  ⚡ 60 FPS    ┃  🎮 ENGINE    ┃
+┃   MAINTAINED   ┃   SUSTAINED   ┃   ARCHITECT   ┃
+┗━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━┛
+
+┏━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━┓
+┃  🥉 GOOGLE    ┃  🧠 NEURAL    ┃  🎨 RENDER    ┃
+┃   CHALLENGE   ┃   RENDERING   ┃   PIPELINE    ┃
+┗━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━┛
+```
+
+</div>
+
+---
+
+## 🌆 PERFORMANCE METRICS
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║  ⚡ FRAME TIME ............. < 16.67ms (60 FPS)      ║
+║  🎮 GPU UTILIZATION ........ 95%+                    ║
+║  🔥 DRAW CALLS ............. Batched & Optimized     ║
+║  💾 MEMORY BANDWIDTH ....... Max via Interop         ║
+║  ✨ CODE QUALITY ........... Production-Grade        ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📡 CONNECT TO SERVER
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-sg2231%40rutgers.edu-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=000000)](mailto:sg2231@rutgers.edu)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Satrajit__Ghosh-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000)](https://www.linkedin.com/in/satrajit-ghosh/)
+[![GitHub](https://img.shields.io/badge/GITHUB-satrajitghosh183-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000)](https://github.com/satrajitghosh183)
 
 <br>
 
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  "Measure honestly. Build iteratively. Tune by data." ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
-╔═══════════════════════════════════════════════════════════════╗
-║  "Measure honestly. Build iteratively. Tune based on data."  ║
-╚═══════════════════════════════════════════════════════════════╝
+<img src="https://komarev.com/ghpvc/?username=satrajitghosh183&color=black&style=for-the-badge&label=VISITORS" />
 
+### ⚡ POWERED BY: C++20 • OpenGL 4.6 • CUDA 12.x • Real-Time Passion ⚡
 
-<img src="https://komarev.com/ghpvc/?username=satrajitghosh183&color=00F7F7&style=for-the-badge&label=PROFILE+VIEWS" />
-
-**⚡ Powered by C++20 • OpenGL 4.6 • CUDA 12.x • Real-Time Passion ⚡**
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
+```
+                                                   
+   🦖 ────────────────────────────────────────► 🏁
+                                                   
+```
 
-Just **copy the entire thing** and paste it into your `README.md` in your `satrajitghosh183` repository! It'll render beautifully on your GitHub profile. 🎮✨
+</div>
