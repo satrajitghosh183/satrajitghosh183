@@ -1,23 +1,23 @@
 ```
                                           satrajit@rutgers
-        @@@@@@@@@@@@@@@@                  ────────────────────────────────────────────────
-      @@@@@@@@@@@@@@@@@@@@                OS: MS ECE (Machine Learning)
-    @@@@@@@@@@@@@@@@@@@@@@@@              University: Rutgers University - New Brunswick
-   @@@@@@@        @@@@@@@@@@@@            GPA: 4.0 / 4.0
-  @@@@@@@          @@@@@@@@@@@            Research: Graphics | GPU | Neural Rendering
-  @@@@@@            @@@@@@@@@@            Exchange: Princeton University
-  @@@@@@            @@@@@@@@@@            ────────────────────────────────────────────────
-  @@@@@@@          @@@@@@@@@@@            
-   @@@@@@@        @@@@@@@@@@@@            Languages.Systems: C++20, C, CUDA C++
-    @@@@@@@@@@@@@@@@@@@@@@@@              Languages.ML: Python, PyTorch, TensorFlow
-      @@@@@@@@@@@@@@@@@@@@                Languages.Web: JavaScript, TypeScript
-        @@@@@@@@@@@@@@@@                  Languages.Shading: GLSL, HLSL
-           @@@@@@@@                       ────────────────────────────────────────────────
-                                          
-                                          Graphics.APIs: OpenGL 4.6, Vulkan, CUDA 12.x
-                                          Graphics.Techniques: Render Graphs, PBR
-                                          Graphics.Research: GPU Scheduling, Interop
-                                          ────────────────────────────────────────────────
+   .-------------------.                  ────────────────────────────────────────────────
+  /  .---------------. /|                 OS: MS ECE (Machine Learning)
+ /  /               / / |                 University: Rutgers University - New Brunswick
+|  |   ___   ___   | |  |                 GPA: 4.0 / 4.0
+|  |  |   | |   |  | | /                  Research: Graphics | GPU | Neural Rendering
+|  |  |___| |___|  | |/                   Exchange: Princeton University
+|  |    ___   ___  | |                    ────────────────────────────────────────────────
+|  |   |   | |   | | |                    
+|  |   |___| |___| | |                    Languages.Systems: C++20, C, CUDA C++
+|  |               | |                    Languages.ML: Python, PyTorch, TensorFlow
+|  |   < READY >   | |                    Languages.Web: JavaScript, TypeScript
+|  |               | |                    Languages.Shading: GLSL, HLSL
+|  '---------------' |                    ────────────────────────────────────────────────
+|  /_____________.___|                    
+| |  ___________  | |                     Graphics.APIs: OpenGL 4.6, Vulkan, CUDA 12.x
+| | |           | | |                     Graphics.Techniques: Render Graphs, PBR
+| | |___________|_|_|                     Graphics.Research: GPU Scheduling, Interop
+|___________________|                     ────────────────────────────────────────────────
                                           
                                           ML.Vision: NeRF, 3D Gaussian Splatting
                                           ML.Domains: Scene Reconstruction, Neural Render
