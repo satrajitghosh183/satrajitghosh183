@@ -1,23 +1,23 @@
 ```
                                           satrajit@rutgers
-   .-------------------.                  ────────────────────────────────────────────────
-  /  .---------------. /|                 OS: MS ECE (Machine Learning)
- /  /               / / |                 University: Rutgers University - New Brunswick
-|  |   ___   ___   | |  |                 GPA: 4.0 / 4.0
-|  |  |   | |   |  | | /                  Research: Graphics | GPU | Neural Rendering
-|  |  |___| |___|  | |/                   Exchange: Princeton University
-|  |    ___   ___  | |                    ────────────────────────────────────────────────
-|  |   |   | |   | | |                    
-|  |   |___| |___| | |                    Languages.Systems: C++20, C, CUDA C++
-|  |               | |                    Languages.ML: Python, PyTorch, TensorFlow
-|  |   < READY >   | |                    Languages.Web: JavaScript, TypeScript
-|  |               | |                    Languages.Shading: GLSL, HLSL
-|  '---------------' |                    ────────────────────────────────────────────────
-|  /_____________.___|                    
-| |  ___________  | |                     Graphics.APIs: OpenGL 4.6, Vulkan, CUDA 12.x
-| | |           | | |                     Graphics.Techniques: Render Graphs, PBR
-| | |___________|_|_|                     Graphics.Research: GPU Scheduling, Interop
-|___________________|                     ────────────────────────────────────────────────
+            .----.                        ────────────────────────────────────────────────
+      .---------. | == |                  OS: MS ECE (Machine Learning)
+      |.-"""""-.| |----|                  University: Rutgers University - New Brunswick
+      ||       || | == |                  GPA: 4.0 / 4.0
+      ||       || |----|                  Research: Graphics | GPU | Neural Rendering
+      |'-.....-'| |::::|                  Exchange: Princeton University
+      `"")---(""` |___.|                  ────────────────────────────────────────────────
+     /:::::::::::\" _  "
+    /:::=======:::\`\`\                   Languages.Systems: C++20, C, CUDA C++
+jgs `"""""""""""""`  '-'                  Languages.ML: Python, PyTorch, TensorFlow
+                                          Languages.Web: JavaScript, TypeScript
+                                          Languages.Shading: GLSL, HLSL
+                                          ────────────────────────────────────────────────
+                                          
+                                          Graphics.APIs: OpenGL 4.6, Vulkan, CUDA 12.x
+                                          Graphics.Techniques: Render Graphs, PBR
+                                          Graphics.Research: GPU Scheduling, Interop
+                                          ────────────────────────────────────────────────
                                           
                                           ML.Vision: NeRF, 3D Gaussian Splatting
                                           ML.Domains: Scene Reconstruction, Neural Render
@@ -222,12 +222,14 @@
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
-│ Email.Personal : sg2231@rutgers.edu                                 │
-│ LinkedIn       : linkedin.com/in/satrajit-ghosh                     │
-│ GitHub         : github.com/satrajitghosh183                        │
+│ Email      : sg2231@rutgers.edu                                     │
+│ LinkedIn   : linkedin.com/in/satrajit-ghosh                         │
+│ GitHub     : github.com/satrajitghosh183                            │
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
+
+**[Email](mailto:sg2231@rutgers.edu)** • **[LinkedIn](https://linkedin.com/in/satrajit-ghosh)** • **[GitHub](https://github.com/satrajitghosh183)**
 
 ---
 
@@ -237,6 +239,6 @@
 Last Updated: November 2024
 ```
 
-[![Profile Views](https://komarev.com/ghpvc/?username=satrajitghosh183&color=black&style=flat-square&label=Profile+Views)](https://github.com/satrajitghosh183)
+[![Profile Views](https://komarev.com/ghpvc/?username=satrajitghosh183&color=000000&style=flat-square&label=Profile+Views)](https://github.com/satrajitghosh183)
 
 </div>
