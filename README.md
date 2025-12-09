@@ -187,18 +187,7 @@ jgs `"""""""""""""`  '-'                  Languages.ML: Python, PyTorch, TensorF
 
 ---
 
-## GITHUB STATISTICS
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satrajitghosh183&show_icons=true&theme=default&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satrajitghosh183&theme=default&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" />
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satrajitghosh183&layout=compact&theme=default&hide_border=true&title_color=000000&text_color=000000&bg_color=ffffff&langs_count=8" />
-
-</div>
-
----
 
 ## RESEARCH PHILOSOPHY
 
