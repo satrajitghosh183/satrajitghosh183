@@ -122,7 +122,7 @@ jgs `"""""""""""""`  '-'                  Languages.ML: Python, PyTorch, TensorF
 └──────────────────────────────────────────────────────────────────────┘
 ```
 
----
+
 
 ## TECHNICAL PROJECTS
 
@@ -158,7 +158,7 @@ jgs `"""""""""""""`  '-'                  Languages.ML: Python, PyTorch, TensorF
 └────────────────────────────────────────────────────────────────────┘
 ```
 
----
+
 
 ## EDUCATION
 
@@ -185,26 +185,7 @@ jgs `"""""""""""""`  '-'                  Languages.ML: Python, PyTorch, TensorF
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
----
 
-
-
-## RESEARCH PHILOSOPHY
-
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║                                                                   ║
-║  "Measure honestly. Build iteratively. Tune based on data."      ║
-║                                                                   ║
-║  The best research emerges from the careful interplay between    ║
-║  theoretical understanding and empirical validation. My approach ║
-║  emphasizes rigorous measurement, systematic experimentation,    ║
-║  and evidence-based optimization.                                ║
-║                                                                   ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
----
 
 ## CONTACT
 
